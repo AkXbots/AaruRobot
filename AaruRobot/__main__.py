@@ -87,21 +87,18 @@ buttons = [
         InlineKeyboardButton(
             text="•❀ ʜᴇʟᴘ & ᴄᴍᴅs ❀•", callback_data="help_back"),
     ],
-    [
+    
         I
             
    
 
-    ],
     [
         InlineKeyboardButton(
             text="•✩ sᴜᴘᴘᴏʀᴛ ✩•", url=f"https://t.me/xtromxsupports"
         ),
        
 
-        ),
-    ],
-]
+        
 
 Tasts_probot_IMG = "https://telegra.ph/file/205816bc5b1024fea3665.jpg"
 
